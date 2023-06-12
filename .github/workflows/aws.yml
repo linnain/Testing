@@ -1,4 +1,4 @@
-name: MM-github-actions
+name: MM-Aung
 run-name: ${{ github.actor }} is learning GitHub Actions To KLNO
 on: [push]
 jobs:
